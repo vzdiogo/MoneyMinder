@@ -16,6 +16,6 @@ Personal finance tracking app a mobile application using React Native that helps
 - **React Native**: For building the mobile app.
 - **Firebase**: For user authentication and real-time database.
 - **React Navigation**: For handling navigation within the app.
-- **Redux or Context API**: For state management.
+- **Redux**: For state management.
 - **React Native Chart Kit**: For creating visual reports.
 - **Styled-components**: For styling the components.
